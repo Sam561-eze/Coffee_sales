@@ -1,3 +1,3 @@
 # Coffee_sales
 # INTRODUCTION
-![Cofee_sales](./cofee-shop-dash.png)
+![Coffee_sales](./coffee-shop.png)
