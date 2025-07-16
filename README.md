@@ -1,3 +1,3 @@
 # Coffee_sales
 # INTRODUCTION
-![](cofee-shop-dash.png)
+![Coffee_sales](./coffee-shop-dash.png)
