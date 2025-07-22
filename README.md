@@ -1,3 +1,3 @@
 # Coffee_sales
 # INTRODUCTION
-![Coffee_sales](./coffee-shop.PNG)
+![Image](https://github.com/user-attachments/assets/f580c0ae-a87c-47b3-8c27-502dcd232952)
